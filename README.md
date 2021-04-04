@@ -9,7 +9,7 @@ I plot a heatmap that shows the correlation between the features GENDER, AGE, WB
 
 I show a pairplot of "AGE", "WBC", "CRP", "AST" and "Lymphocytes", by visualising SWAB as hue. The two classes are male (0) and female (1).
 
-<img src="pairplots.png" alt="Pairplot of "AGE", "WBC", "CRP", "AST" and "Lymphocytes" for two classes (0 (male) and 1 (female))." style="height: 40px; width:40px;"/>
+<img src="pairplots.png" alt='Pairplot of "AGE", "WBC", "CRP", "AST" and "Lymphocytes" for two classes (0 (male) and 1 (female)).' style="height: 40px; width:40px;"/>
 
 ## Scripts
 
