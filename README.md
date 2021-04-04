@@ -1,6 +1,6 @@
 # Exploratory Analysis for COVID-19
 
-Inspired by the papaer of [Brinati et al. (2020)](https://zenodo.org/record/3886927#.X7Jy_ZMzbm1), I produce an exploratory analysis attempting to detect COVID-19 (SWAB) based on features such as gender, age, blood exams, etc. 
+Inspired by the paper of [Brinati et al. (2020)](https://zenodo.org/record/3886927#.X7Jy_ZMzbm1), I produce an exploratory analysis attempting to detect COVID-19 (SWAB) based on features such as gender, age, blood exams, etc. 
 
 ## Plots
 
